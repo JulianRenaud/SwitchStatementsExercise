@@ -1,0 +1,15 @@
+C:\Users\Pearl-Laptop\Desktop\Repos\SwitchStatementsExersice\SwitchStatementsExersice\obj\Debug\net6.0\SwitchStatementsExersice.csproj.AssemblyReference.cache
+C:\Users\Pearl-Laptop\Desktop\Repos\SwitchStatementsExersice\SwitchStatementsExersice\obj\Debug\net6.0\SwitchStatementsExersice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pearl-Laptop\Desktop\Repos\SwitchStatementsExersice\SwitchStatementsExersice\obj\Debug\net6.0\SwitchStatementsExersice.AssemblyInfoInputs.cache
+C:\Users\Pearl-Laptop\Desktop\Repos\SwitchStatementsExersice\SwitchStatementsExersice\obj\Debug\net6.0\SwitchStatementsExersice.AssemblyInfo.cs
+C:\Users\Pearl-Laptop\Desktop\Repos\SwitchStatementsExersice\SwitchStatementsExersice\obj\Debug\net6.0\SwitchStatementsExersice.csproj.CoreCompileInputs.cache
+C:\Users\Pearl-Laptop\Desktop\Repos\SwitchStatementsExersice\SwitchStatementsExersice\bin\Debug\net6.0\SwitchStatementsExersice.exe
+C:\Users\Pearl-Laptop\Desktop\Repos\SwitchStatementsExersice\SwitchStatementsExersice\bin\Debug\net6.0\SwitchStatementsExersice.deps.json
+C:\Users\Pearl-Laptop\Desktop\Repos\SwitchStatementsExersice\SwitchStatementsExersice\bin\Debug\net6.0\SwitchStatementsExersice.runtimeconfig.json
+C:\Users\Pearl-Laptop\Desktop\Repos\SwitchStatementsExersice\SwitchStatementsExersice\bin\Debug\net6.0\SwitchStatementsExersice.dll
+C:\Users\Pearl-Laptop\Desktop\Repos\SwitchStatementsExersice\SwitchStatementsExersice\bin\Debug\net6.0\SwitchStatementsExersice.pdb
+C:\Users\Pearl-Laptop\Desktop\Repos\SwitchStatementsExersice\SwitchStatementsExersice\obj\Debug\net6.0\SwitchStatementsExersice.dll
+C:\Users\Pearl-Laptop\Desktop\Repos\SwitchStatementsExersice\SwitchStatementsExersice\obj\Debug\net6.0\refint\SwitchStatementsExersice.dll
+C:\Users\Pearl-Laptop\Desktop\Repos\SwitchStatementsExersice\SwitchStatementsExersice\obj\Debug\net6.0\SwitchStatementsExersice.pdb
+C:\Users\Pearl-Laptop\Desktop\Repos\SwitchStatementsExersice\SwitchStatementsExersice\obj\Debug\net6.0\SwitchStatementsExersice.genruntimeconfig.cache
+C:\Users\Pearl-Laptop\Desktop\Repos\SwitchStatementsExersice\SwitchStatementsExersice\obj\Debug\net6.0\ref\SwitchStatementsExersice.dll
